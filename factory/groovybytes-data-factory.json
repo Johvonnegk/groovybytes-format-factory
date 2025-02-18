@@ -1,0 +1,9 @@
+{
+	"name": "groovybytes-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f0365457-8b1b-4f37-977a-618efea7bedc",
+		"tenantId": "dfd76bd3-de5c-4385-ba78-25a8e682a138"
+	}
+}
